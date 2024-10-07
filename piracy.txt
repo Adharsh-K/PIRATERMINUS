@@ -1,0 +1,12 @@
+PIRATERMINUS	"ELIMINATE ONLINE PIRACY(software)
+Pirated movies & series
+Eliminate pirated moives(both online & offline)
+Basically aimed at movie makers
+Prevention of Cyber Crime
+Government can also be aided
+Revenue Generation:- People going to theatres to watch it
+Future Scope:- Integrate it in the Operating System
+
+"	"PIRATERMINUS is a system for AI-based intelligent piracy content tracing apparatus that focuses on identifying the pirated contents of movies or videos from theatres or OTT platforms.
+
+The invention focuses on identifying the content from where the frame has been pirated and thus helps in tracking the culprit immediately. The proposed invention will be a relief for movie producers and distributors."
